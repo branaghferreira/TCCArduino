@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_main">#FAFAF9</color>
+
+    <color name="color_primary">#388E3C</color>
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#222222</color>
+    <color name="text_hint">#5B8062</color>
+
+    <color name="input_bg">#90EE90</color>
+    <color name="input_stroke">#76C776</color>
+
+    <color name="btn_green">#4CAB50</color>
+    <color name="btn_text_color">#000000</color>
+
+</resources>
