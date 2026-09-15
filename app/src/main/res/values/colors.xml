@@ -11,10 +11,25 @@
     <color name="text_secondary">#222222</color>
 
 
-    <color name="input_bg">#90EE90</color>
+    <color name="input_bg">#588C53</color>
     <color name="input_stroke">#76C776</color>
 
     <color name="btn_green">#4CAB50</color>
     <color name="btn_text_color">#000000</color>
+
+    <color name="historico_fundo">#FAFAF9</color>
+
+    <color name="historico_verde">#588C53</color>
+    <color name="historico_barra_fundo">#CCCCCC</color>
+
+    <color name="historico_card">#EEEEEE</color>
+    <color name="historico_card_borda">#DDDDDD</color>
+
+    <color name="historico_vermelho">#FF5555</color>
+    <color name="historico_roxo">#C04AD9</color>
+    <color name="historico_azul">#42A5F5</color>
+
+    <color name="historico_texto">#111111</color>
+    <color name="historico_texto_secundario">#666666</color>
 
 </resources>
